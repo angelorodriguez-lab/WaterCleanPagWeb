@@ -16,6 +16,10 @@ body {
     min-height: 100vh;
 }
 
+.imagen-sensor{
+    width: 100%;
+}
+
 /* Barra lateral de navegación */
 .sidebar {
     width: 250px;
@@ -407,4 +411,5 @@ footer {
 .team-description li, .team-values li {
     margin-bottom: 10px;
     line-height: 1.5;
+
 }
